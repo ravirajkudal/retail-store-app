@@ -1,0 +1,52 @@
+Kubernetes To Production In One Shot (Live Project) | EKS Auto Mode | ArgoCD | GitOps
+
+Account ID - 195663986124
+Account Name - Akshay
+gadeakshay2713@gmail.com
+password - Bailamos@2002
+
+Eks auto mode manages all the things like ec2, storage, newtworking, security etc in background it uses the carpenter
+
+Create IAM user - administrator access 
+Create access key - CLI 
+Console user pass - Retail  Bailamos@2002
+https://195663986124.signin.aws.amazon.com/console
+
+aws configure 
+Access key - AKIAS3DT3PXGGXOTEXOR
+Secrete access key - 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
+
+Go to terraform folder 
+>> terraform init
+>> terraform apply '-target=module.vpc'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
